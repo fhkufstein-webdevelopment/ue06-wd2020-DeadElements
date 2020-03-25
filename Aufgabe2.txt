@@ -1,0 +1,41 @@
+• Welche URL wird aufgerufen wenn Sie versuchen sich anzumelden?
+	http://localhost/webdev-project-bildbewertung/login
+• Welche „Method“ wird im Reiter Network angezeigt?
+	Websocket?url=http%......
+	login
+	css?family=Open+Sans:400,600
+	font-awesome.min.css
+	bootstrap.min.css
+	bootstrap-theme.min.css
+	jquery-3.2.1.in.js
+	toastr.min.css
+	bootstrap.min.css
+	toastr.min.js
+	main.css
+	main.js?attr=GCiSX......
+	login.js
+• Welche URL wird aufgerufen wenn Sie versuchen sich zu registrieren?
+	Die Url bleibt die selbe wie beim normalen login: http://localhost/webdev-project-bildbewertung/login
+	-> nur ein Pop-Up Fenster mit keiner seperaten URL
+
+• Welche „Method“ wird im Reiter Network angezeigt?
+	login
+	data:image......
+• Wie lautet der Name/aufgerufene URL?
+	http://localhost/webdev-project-bildbewertung/index
+
+	adress/
+	index
+• Bearbeiten Sie eine Adresse und klicken Sie auf speichern; 
+Wie lautet hier der Name/aufgerufene URL?
+
+	?returnView=true&id=1
+	http://localhost/webdev-project-bildbewertung/index
+
+
+
+
+
+
+
+• Löschen Sie die neu angelegte Adresse – wie ist hier die Method?
